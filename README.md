@@ -23,12 +23,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowshekan&theme=tokyonight&hide_border=true&layout=compact" alt="Gowshekan's Top Languages" />
 </div>
 
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gowshekan/Gowshekan/main/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
-</p>
-
 <!-- Commit Snake Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Gowshekan/Gowshekan/main/github-contribution-grid-snake.svg" alt="Commit Snake Animation" />
