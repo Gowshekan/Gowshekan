@@ -26,7 +26,7 @@
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gowshekan/Gowshekan/main/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Gowshekan/Gowshekan/main/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
 </p>
 
 <!-- Commit Snake Animation -->
