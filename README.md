@@ -23,11 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowshekan&theme=tokyonight&hide_border=true&layout=compact" alt="Gowshekan's Top Languages" />
 </div>
 
-## 🐍 Live Snake Animation
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gowshekan/Gowshekan/snake-animation/snake.gif" width="600" alt="animated snake" />
-</p>
 
 <!-- Activity Graph -->
 <p align="center">
@@ -139,12 +135,6 @@ I'm a passionate **Computer Science Engineering student** at Sri Eshwar College 
 - [ ] Participate in Hackathons
 
 ---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/Gowshekan/count.svg)
 
 **📈 Weekly Development Breakdown**
 ```text
