@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🐍 Contribution Snake
 
-![GitHub Snake Light](https://raw.githubusercontent.com/Gowshekan/Gowshekan/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/Gowshekan/Gowshekan/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
