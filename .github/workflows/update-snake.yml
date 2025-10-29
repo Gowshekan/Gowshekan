@@ -5,19 +5,28 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  build:
+  generate-snake:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@master
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Generate snake animation
+        uses: Platane/snk@master
         with:
           github_user_name: Gowshekan
           svg_out_path: github-contribution-grid-snake.svg
-      - name: Commit snake
+          
+      - name: Commit and push snake
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add github-contribution-grid-snake.svg
-          git commit -m "Update snake animation" || exit 0
+          git commit -m "Update snake animation"
           git push
