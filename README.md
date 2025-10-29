@@ -25,7 +25,7 @@
 
 <!-- Commit Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gowshekan/Gowshekan/output/github-contribution-grid-snake.svg" alt="Commit Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Gowshekan/Gowshekan/main/github-contribution-grid-snake.svg" alt="Commit Snake Animation" />
 </p>
 
 <!-- Activity Graph -->
