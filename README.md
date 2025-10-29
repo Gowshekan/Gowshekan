@@ -23,9 +23,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowshekan&theme=tokyonight&hide_border=true&layout=compact" alt="Gowshekan's Top Languages" />
 </div>
 
-## 🐍 Snake Game
+## 🐍 Live Snake Animation
+
 <p align="center">
-  <img src="https://github.com/Gowshekan/Gowshekan/blob/output/snake.svg" alt="Snake Game" />
+  <img src="https://raw.githubusercontent.com/Gowshekan/Gowshekan/snake-animation/snake.gif" width="600" alt="animated snake" />
 </p>
 
 <!-- Activity Graph -->
