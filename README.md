@@ -6,46 +6,44 @@
 
 <h3 align="center">☁️ Cloud Engineer | Python Developer | AI/ML Enthusiast | Frontend Developer</h3>
 
-<!-- Banner & Trophies -->
+---
+
+<!-- 🏆 GitHub Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Gowshekan&theme=nord&column=7&no-frame=true" alt="Gowshekan's trophies" />
 </p>
 
-<!-- Typing Animation -->
+<!-- 🧠 Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C7FF&center=true&vCenter=true&width=500&lines=Cloud+Engineer;Python+Developer;AI%2FML+Enthusiast;Azure+Certified;Frontend+Developer;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
-<!-- Stats Grid -->
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Gowshekan&theme=tokyonight&hide_border=true" alt="streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=Gowshekan&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowshekan&theme=tokyonight&hide_border=true&layout=compact" alt="Gowshekan's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowshekan&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
-
-
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gowshekan&theme=tokyonight&hide_border=true&line=bb9af7&point=7aa2f7&area=true" alt="Gowshekan's GitHub Activity Graph" />
-</p>
-
 
 ---
 
 ## 🧠 About Me
 
-I'm a passionate **Computer Science Engineering student** at Sri Eshwar College of Engineering with a strong focus on **cloud computing, AI/ML, and full-stack development**. I love building innovative solutions that bridge technology and real-world problems, from sustainable AI applications to cloud infrastructure automation.
+I'm a passionate **Computer Science Engineering student** at *Sri Eshwar College of Engineering*, with a focus on **Cloud Computing, AI/ML, and Full-Stack Development**.  
+I enjoy building impactful projects that combine intelligent automation with scalable infrastructure.
 
 **What drives me:**
-- 🚀 Building intelligent applications with AI/ML
-- ☁️ Mastering cloud technologies and Azure services
-- 🌐 Creating responsive and user-friendly web interfaces
-- 📚 Continuous learning and skill development
+- 🚀 Building intelligent and scalable applications  
+- ☁️ Mastering Azure Cloud & DevOps practices  
+- 🌐 Creating clean, responsive user experiences  
+- 📚 Constantly learning new technologies  
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 <p>
@@ -79,21 +77,21 @@ I'm a passionate **Computer Science Engineering student** at Sri Eshwar College 
 
 ## 📈 Skills Overview
 
-### Cloud & Infrastructure
-- **Azure Services**: VM Deployment, Cognitive Services, Cloud Infrastructure
-- **Cloud Certifications**: AZ-900 Azure Fundamentals
-- **Infrastructure Management**: Azure CLI, VM Provisioning
+### ☁️ Cloud & Infrastructure
+- **Azure Services**: VM Deployment, Cognitive Services, Cloud Infrastructure  
+- **Certifications**: AZ-900 (Azure Fundamentals)  
+- **Infrastructure Tools**: Azure CLI, VM Provisioning  
 
-### AI/ML
-- **Deep Learning**: CNN, MobileNetV2, Neural Networks
-- **Computer Vision**: Image Classification, OpenCV
-- **Model Deployment**: Flask Web Integration, TensorFlow Serving
+### 🤖 AI/ML
+- **Deep Learning**: CNN, MobileNetV2, Neural Networks  
+- **Computer Vision**: Image Classification, OpenCV  
+- **Model Deployment**: Flask Integration, TensorFlow Serving  
 
-### Web Development
-- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap
-- **Backend**: Python Flask, REST APIs
-- **Full-Stack**: End-to-end web application development
-- **Responsive Design**: Mobile-first approaches
+### 💡 Web Development
+- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap  
+- **Backend**: Python Flask, REST APIs  
+- **Full Stack**: End-to-end application development  
+- **Design**: Responsive & Mobile-first  
 
 ---
 
@@ -101,55 +99,46 @@ I'm a passionate **Computer Science Engineering student** at Sri Eshwar College 
 
 ### 🤖 AI/ML Projects
 | Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **GreenCity - AI Waste Classification** | Deep learning web app for waste classification into 6 recycling categories | `Python` `Flask` `TensorFlow` `OpenCV` | 🚀 Active |
-| **Heart Disease Prediction** | ML web application for heart disease prediction using neural networks | `Python` `Flask` `TensorFlow` `Scikit-learn` | ✅ Complete |
+|----------|-------------|------------|--------|
+| **GreenCity - AI Waste Classification** | Deep learning web app for classifying recyclable waste | `Python` `Flask` `TensorFlow` `OpenCV` | 🚀 Active |
+| **Heart Disease Prediction** | ML web app to predict heart disease using neural networks | `Python` `Flask` `TensorFlow` `Scikit-learn` | ✅ Complete |
 
 ### ☁️ Cloud Projects
 | Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **Azure VM Deployer** | Web-based Azure VM provisioning application with real-time monitoring | `Python` `Flask` `Azure CLI` `JavaScript` | 🚀 Active |
+|----------|-------------|------------|--------|
+| **Azure VM Deployer** | Web app to provision Azure VMs with real-time monitoring | `Python` `Flask` `Azure CLI` | 🚀 Active |
 
 ### 🌐 Web Development
 | Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **E-commerce Landing Page** | Responsive frontend for e-commerce platform | `HTML5` `CSS3` `JavaScript` `Bootstrap` | ✅ Complete |
+|----------|-------------|------------|--------|
+| **E-commerce Landing Page** | Responsive frontend for e-commerce | `HTML5` `CSS3` `JavaScript` `Bootstrap` | ✅ Complete |
 
 ---
 
 ## 🌱 Currently Learning & Goals
 
-### 📚 Learning Path 2024-2025
-- [ ] **Azure Administrator (AZ-104) Certification**
-- [ ] **Advanced Machine Learning & Deep Learning**
-- [ ] **Cloud-native Application Development**
-- [ ] **Kubernetes & Container Orchestration**
-- [ ] **Advanced Web Development Frameworks**
+### 📚 Learning Path (2024–2025)
+- [ ] Azure Administrator (AZ-104)  
+- [ ] Advanced Deep Learning  
+- [ ] Cloud-native App Development  
+- [ ] Kubernetes & Docker  
+- [ ] Modern Web Frameworks (React / Next.js)
 
 ### 🎯 2025 Goals
-- [ ] Contribute to 5+ Open Source Projects
-- [ ] Earn Azure Administrator Certification
-- [ ] Build 3+ AI/ML Production Projects
-- [ ] Master Cloud Architecture Design
-- [ ] Participate in Hackathons
+- [ ] Contribute to 5+ Open Source Projects  
+- [ ] Earn Azure Administrator Certification  
+- [ ] Build 3+ Production AI/ML Projects  
+- [ ] Master Cloud Architecture  
+- [ ] Participate in Hackathons  
 
 ---
 
-**📈 Weekly Development Breakdown**
+## 📆 Weekly Development Breakdown
 ```text
-Python       🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦   70%
+Python       🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦   70%
 HTML/CSS     🟩🟩🟩🟩🟩🟩🟩🟩              40%
 JavaScript   🟨🟨🟨🟨🟨                    25%
 Docker       🟪🟪🟪                        15%
 TensorFlow   🟦🟦🟦🟦                      20%
----
 
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gowshekan/Gowshekan/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gowshekan/Gowshekan/output/snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Gowshekan/Gowshekan/output/snake.svg">
-  </picture>
-</p>
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gowshekan/Gowshekan/output/snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gowshekan/Gowshekan/output/snake.svg"> <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Gowshekan/Gowshekan/output/snake.svg"> </picture> </p>
