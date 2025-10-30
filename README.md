@@ -149,6 +149,7 @@ TensorFlow   🟦🟦🟦🟦                      20%
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gowshekan/Gowshekan/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gowshekan/Gowshekan/output/snake.svg" />
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Gowshekan/Gowshekan/output/snake.svg" />
+    ![Snake animation](https://raw.githubusercontent.com/Gowshekan/Gowshekan/output/snake.svg)
   </picture>
 </p>
 
