@@ -141,7 +141,6 @@ JavaScript   🟨🟨🟨🟨🟨                    25%
 Docker       🟪🟪🟪                        15%
 TensorFlow   🟦🟦🟦🟦                      20%
 ```
-## 🐍 GitHub Contribution Snake
 
 ## 🐍 GitHub Contribution Snake
 
