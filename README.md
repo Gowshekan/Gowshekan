@@ -113,7 +113,6 @@ I'm a passionate **Computer Science Engineering student** at Sri Eshwar College 
 ### 🌐 Web Development
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| **GitView - Visual Git Client** | Modern web-based Git client with intuitive interface | `Python` `Flask` `HTML5` `CSS3` `JavaScript` | ✅ Complete |
 | **E-commerce Landing Page** | Responsive frontend for e-commerce platform | `HTML5` `CSS3` `JavaScript` `Bootstrap` | ✅ Complete |
 
 ---
